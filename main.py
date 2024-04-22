@@ -51,6 +51,7 @@ all_stopwords=["mu","onlar","seksen","ama","trilyon","buna",
               "yapılan","yapılması","yapıyor","yapmak","yaptı","yaptığı","yaptığını","yaptıkları","ye","yedi","yerine",
               "yetmiş","yi","yı","yine","yirmi","yoksa","yu","yüz","zaten","zira"]
 
+st.write("Not: sqlite3 dosyasında eklenen ve silinen kelimeler ayrı olarak bulunuyor")
 
 #yeni-kelimeleri-ekleme
 c.execute("CREATE TABLE IF NOT EXISTS eklenenkelimeler(kelime TEXT,tarih TEXT)")
