@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: stopwords
+Version: 1.0.0
+Summary: Stopwords filter for Turkish languages
+Home-page: https://github.com/metinoktayd/StopWords-Turkish-Language
+Author: Metin Oktay DENIZ
+Author-email: metinoktaydenizz@gmail.com
+Keywords: stopwords,language processing,nlp,filter,turkish stopwords

@@ -1,0 +1,5 @@
+setup.py
+stopwords.egg-info/PKG-INFO
+stopwords.egg-info/SOURCES.txt
+stopwords.egg-info/dependency_links.txt
+stopwords.egg-info/top_level.txt
