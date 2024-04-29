@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-stopwordstr.py
-stopwordstr.egg-info/PKG-INFO
-stopwordstr.egg-info/SOURCES.txt
-stopwordstr.egg-info/dependency_links.txt
-stopwordstr.egg-info/top_level.txt
